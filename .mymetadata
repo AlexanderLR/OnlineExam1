@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="OnlieExam"
+  id="myeclipse.1520329005334"
+  context-root="/OnlieExam"
+  j2ee-spec="5.0"
+  archive="OnlieExam.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
